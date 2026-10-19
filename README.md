@@ -1,4 +1,4 @@
-# TierForge — Resilient Bulk Store Scoring & Tiering
+# TierForge - Resilient Bulk Store Scoring & Tiering
 
 Upload a CSV of stores. A job enriches each store through a slow, rate-limited, flaky API, then scores and tiers it (Large / Medium / Small) using weights you set.
 
@@ -18,6 +18,7 @@ tierforge/
 ├── sample-data/            provided stores_5000.csv
 └── docker-compose.yml      Postgres
 ```
+<img width="1456" height="892" alt="image" src="https://github.com/user-attachments/assets/000a55c9-3550-424e-b244-470b1b0d89f1" />
 
 ---
 
